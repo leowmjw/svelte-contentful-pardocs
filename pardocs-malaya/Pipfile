@@ -9,6 +9,7 @@ verify_ssl = true
 hug = "*"
 malaya = "*"
 gunicorn = "*"
+simplejson = "*"
 
 [requires]
 python_version = "3.7"
