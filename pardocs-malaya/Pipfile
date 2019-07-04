@@ -11,6 +11,9 @@ malaya = "*"
 gunicorn = "*"
 simplejson = "*"
 pypdf2 = "*"
+matplotlib = "*"
+seaborn = "*"
+cycler = "*"
 
 [requires]
 python_version = "3.7"
